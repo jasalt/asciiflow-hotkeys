@@ -1,0 +1,6 @@
+* Usage
+Open html file in browser and drag bookmarklet-link to bookmarks bar.
+Run on asciiflow page to enable hotkeys.
+
+* Tasks
+** TODO Greasemonkey script
